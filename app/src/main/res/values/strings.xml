@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BasketBallScore</string>
+    <string name="textview1">teamA</string>
+    <string name="textview2">teamB</string>
+    <string name="scoretextview1">scoreA</string>
+    <string name="scoreBtextview">scoreB</string>
+    <string name="button1">+1</string>
+    <string name="button2">+1</string>
+    <string name="button3">+2</string>
+    <string name="button4">+2</string>
+    <string name="button5">+3</string>
+    <string name="button6">+3</string>
+    <string name="reset">reset</string>
+    <string name="undo">undo</string>
+    <string name="temaA">teamA</string>
+    <string name="temaB">teamB</string>
+    <string name="shp_name">shp_name</string>
+</resources>
